@@ -75,10 +75,11 @@ body::before{
 .personagem-selecionado .personagem-grande{
     width: 430px;
     height: 430px;
+    border-bottom: #47f4ff;
 }
 
 .personagem-selecionado .nome-personagem{
-    border-bottom: #47f4ff;
+    border-bottom: 2px solid #47f4ff;
     letter-spacing: 4px;
     text-transform: uppercase;
 }
